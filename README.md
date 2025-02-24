@@ -1,7 +1,7 @@
 # Multi-omics-Integration
 <b> _TOWARDS A MULTI-OMICS APPROACH FOR DISEASE-CAUSING MOLECULES IDENTIFICATION USING GRAPH CONVOLUTIONAL NETWORK._ </b>
 
-This was my internship project of 4 months at Medical Data Laboratory, Hopital L'Archet, Nice.
+_This was my internship project of 4 months at Medical Data Laboratory, Hopital L'Archet, Nice._
 
 ## ABSTRACT: 
 <p align="justify">
