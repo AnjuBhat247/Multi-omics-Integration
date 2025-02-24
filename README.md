@@ -19,9 +19,9 @@ The rapid advancement in high-throughput biomedical technologies has enabled the
 
 <p align="justify">
 Note: 
-- Intellectual_Disabilities.ipynb contains model implementation and complete code related to Intellectual Disabilities Interaction network part.
-- Interaction_Brown.ipynb contains same model implementation, but few changes in the code with regard to Mitochondrial Diseases Module. This same notebook can be used to check models' performance on different modules of Mitochondrial Diseases with few changes. Changes to be made are mentioned in the beginning of the notebook.
-- Co-Expression_Brown.ipynb notebook contains same model implementation, but few changes in the code with regard to co-expression data of brown module.
+- Intellectual_Disabilities.ipynb contains model implementation and complete code related to Intellectual Disabilities Interaction network part. <br>
+- Interaction_Brown.ipynb contains same model implementation, but few changes in the code with regard to Mitochondrial Diseases Module. This same notebook can be used to check models' performance on different modules of Mitochondrial Diseases with few changes. Changes to be made are mentioned in the beginning of the notebook.<br>
+- Co-Expression_Brown.ipynb notebook contains same model implementation, but few changes in the code with regard to co-expression data of brown module.<br>
 - All the necessary data are available in Data folder with seperate folders for 10 modules of Mitochondrial disease and one folder for Intellectual Disability dataset.
 </p>
 
