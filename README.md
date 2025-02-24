@@ -9,9 +9,10 @@ The rapid advancement in high-throughput biomedical technologies has enabled the
 </p>
 
 ## SKILLS USED:
-- Python, TensorFlow Scikit-learn, Pandas, Matplotlib
+- Python, PyTorch, DGL, NetworkX, Scikit-learn, Pandas, Matplotlib, Seaborn
 - GCN, GraphSAGE
-- Correlation, Entropy, Divergence
+- Jupyter, Anaconda, StringDB, GitHub
+- Correlation, Entropy, Divergence, Deep Learning, Multi-Omics, Biomedical data
 
 ## RESULTS:
 - Developed a semi-supervised GCN that improves the molecular identification.
