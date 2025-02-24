@@ -20,11 +20,11 @@ The rapid advancement in high-throughput biomedical technologies has enabled the
 
 <p align="justify">
 <b>Note: </b><br>
-- _Intellectual_Disabilities.ipynb_ contains model implementation and complete code related to Intellectual Disabilities Interaction network part. <br>
-- _Interaction_Brown.ipynb_ contains same model implementation, but few changes in the code with regard to Mitochondrial Diseases Module. This same notebook can be used to check models' performance on different modules of Mitochondrial Diseases with few changes. Changes to be made are mentioned in the beginning of the notebook.<br>
-- _Co-Expression_Brown.ipynb_ notebook contains same model implementation, but few changes in the code with regard to co-expression data of brown module.<br>
-- All the necessary data are available in _Data_ folder with seperate folders for 10 modules of Mitochondrial disease and one folder for Intellectual Disability dataset.<br>
-- _Internship_Final_Report.pdf_ contains the complete documentation of the project and the results obtained. 
+- <i>Intellectual_Disabilities.ipynb</i> contains model implementation and complete code related to Intellectual Disabilities Interaction network part. <br>
+- <i>Interaction_Brown.ipynb</i> contains same model implementation, but few changes in the code with regard to Mitochondrial Diseases Module. This same notebook can be used to check models' performance on different modules of Mitochondrial Diseases with few changes. Changes to be made are mentioned in the beginning of the notebook.<br>
+- <i>Co-Expression_Brown.ipynb</i> notebook contains same model implementation, but few changes in the code with regard to co-expression data of brown module.<br>
+- All the necessary data are available in <i>Data</i> folder with seperate folders for 10 modules of Mitochondrial disease and one folder for Intellectual Disability dataset.<br>
+- <i>Internship_Final_Report.pdf</i> contains the complete documentation of the project and the results obtained. 
 </p>
 
   ![Candidate_Gene_network_Autism](https://github.com/AnjuBhat247/Multi-omics-Integration/assets/139755515/6acd8977-5744-4778-ba58-f07cc06e78d5)
