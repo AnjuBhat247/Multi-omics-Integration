@@ -1,10 +1,19 @@
 # Multi-omics-Integration
 TOWARDS A MULTI-OMICS APPROACH FOR DISEASE-CAUSING MOLECULES IDENTIFICATION USING GRAPH CONVOLUTIONAL NETWORK.
 
-This is my internship project of 4 months at MD Lab, Hopital L'Archet, Nice.
+This was my internship project of 4 months at Medical Data Laboratory, Hopital L'Archet, Nice.
 
 ## ABSTRACT: 
 The rapid advancement in high-throughput biomedical technologies has enabled the collection of various types of omics data with unprecedented details. While each omics technology can only capture part of the biological complexity, integrating multiple types of omics data can provide a more holistic view of the underlying biological processes. Graph deep learning has recently emerged to incorporate graph structures into a deep learning framework to predict disease causing molecules. Despite the promising results shown by some studies using Graph Convolution Networks (GCNs) in the field of oncology, there is a scarcity of applications in rare diseases, particularly in mitochondrial diseases. Moreover, intellectual disability, another rare disease category, has also received limited attention in the context of multi-omics studies. This neglect can be attributed to various challenges, such as the limited availability of data, the curse of dimensionality inherent in omics data, and the heterogeneous nature of the data associated with these conditions. Consequently, there is a need to address these challenges and explore the potential of GCNs in advancing research and understanding of rare diseases, including mitochondrial diseases and intellectual disability. The recent developments regarding GCN models are a promising resource to enhance the application of multi-omics studies on rare diseases. In order to address this research gap, we have developed a novel GCN model that combines Graph Convolution and GraphSAGE. This model was applied to analyze ten distinct modules of omics data related to mitochondrial diseases, with the aim of accurately classifying genes as pathogenic or non-pathogenic. By employing the best edge weight method tailored to the complexity of each network, our model achieved impressive accuracy ranging from 98% to 100% across the different modules. To further evaluate the model's performance, we also applied it to intellectual disabilities pathology and obtained a remarkable accuracy of 98%. The success of the implemented model in classifying genes as pathogenic or non-pathogenic in both pathologies further highlights the potential of graph deep learning for advancing multi-omics studies and aiding in disease causing molecules diagnosis and treatment.
+
+## SKILLS USED:
+- Python, TensorFlow Scikit-learn, Pandas, Matplotlib
+- GCN, GraphSAGE
+- Correlation, Entropy, Divergence
+
+## RESULTS:
+- Developed a semi-supervised GCN that improves the molecular identification.
+- Achieved 98-99% accuracy by training GCN models on biological pathways and multi-cohort data.
 
 Note: 
 - Intellectual_Disabilities.ipynb contains model implementation and complete code related to Intellectual Disabilities Interaction network part.
